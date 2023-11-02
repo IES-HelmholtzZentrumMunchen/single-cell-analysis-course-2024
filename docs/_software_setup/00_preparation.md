@@ -1,4 +1,0 @@
----
-title: Prepare your system
----
-
